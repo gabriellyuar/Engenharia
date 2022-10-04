@@ -1,0 +1,1042 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/2623583-abstrato-preto-forma-geometrica-fundo-com-linha-diagonal-textura-design-para-apresentacao-banner-capa-web-folheto-cartao-poster-jogo-textura-slide-e-powerpoint-ilustracaoial-vetor.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1471px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 276px;
+  height: 276px;
+  margin: -81px auto 0 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  text-shadow: 5px 10px 10px rgba(128,128,128,1);
+  margin: -18px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 945px;
+  height: 442px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  transition-duration: 0.5s;
+  box-shadow: 2px -2px 8px 0 rgba(128,128,128,1);
+  filter: brightness(0.7);
+  margin: 49px auto 0;
+}
+
+.u-section-1 .u-list-1 {
+  width: 958px;
+  margin: 87px auto 0;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-gap: 10px 10px;
+  grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+  min-height: 94px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  margin: 10px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none none solid;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 400;
+  margin: 10px auto 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 400;
+  margin: 10px auto 0;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 326px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1210px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 940px;
+    height: 439px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 92px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1107px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 720px;
+    height: 336px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+    min-height: 211px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1023px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 252px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 930px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 159px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 340px;
+  }
+}
+
+.u-section-1 .u-image-2,
+.u-section-1 .u-image-2:before,
+.u-section-1 .u-image-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-2.u-image-2.u-image-2:hover {
+  border-radius: 10px !important;
+}
+
+.u-section-1 .u-image-2.u-image-2.u-image-2.hover {
+  border-radius: 10px !important;
+} .u-section-2 {
+  background-image: url("images/2623583-abstrato-preto-forma-geometrica-fundo-com-linha-diagonal-textura-design-para-apresentacao-banner-capa-web-folheto-cartao-poster-jogo-textura-slide-e-powerpoint-ilustracaoial-vetor.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 780px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 78px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 658px;
+  background-image: url("images/fortnite-battle-royale-1920x1080-864336699.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-text-1 {
+  line-height: 1.47;
+  font-weight: 700;
+  margin: 10px 101px 0 125px;
+}
+
+.u-section-2 .u-image-2 {
+  min-height: 304px;
+  background-image: url("images/6c809e90b45ae3ff0b3e4a19cca9ce81.gif");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-image-3 {
+  min-height: 354px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/giphy.gif");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 39px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: -2px auto 0 0;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 30px 21px 0;
+}
+
+.u-section-2 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: none none solid;
+  margin: 20px auto 0 21px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 724px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 600px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 51px;
+    margin-left: 95px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 300px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 292px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-1 {
+    width: 107px;
+    height: 24px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1324px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 447px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1024px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 335px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-image-3 {
+    min-height: 211px;
+  }
+} .u-section-3 {
+  background-image: url("images/2623583-abstrato-preto-forma-geometrica-fundo-com-linha-diagonal-textura-design-para-apresentacao-banner-capa-web-folheto-cartao-poster-jogo-textura-slide-e-powerpoint-ilustracaoial-vetor.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 740px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin: 70px 0;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 608px;
+  background-image: url("images/wp4702055.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 304px;
+  background-image: url("images/call-of-duty.gif");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-3 .u-image-3 {
+  min-height: 304px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/GregariousPresentDavidstiger-size_restricted1.gif");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: none none solid;
+  margin: 20px auto 0 0;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 724px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 600px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 300px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 300px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    width: 107px;
+    height: 24px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1324px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1024px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: auto;
+  }
+} .u-section-4 {
+  background-image: url("images/2623583-abstrato-preto-forma-geometrica-fundo-com-linha-diagonal-textura-design-para-apresentacao-banner-capa-web-folheto-cartao-poster-jogo-textura-slide-e-powerpoint-ilustracaoial-vetor.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 740px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin: 70px 0;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 608px;
+  background-image: url("images/among-us_8kks.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-image-2 {
+  min-height: 304px;
+  background-image: url("images/61897fbab5cf4e726f8743ce8969faa7.gif");
+  background-position: 50% 9.7%;
+  background-size: 110%;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-image-3 {
+  min-height: 310px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("images/among-us-sus.gif");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: none none solid;
+  margin: 20px auto 0 0;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 724px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 600px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 300px;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 300px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    width: 107px;
+    height: 24px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1324px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1024px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: auto;
+  }
+} .u-section-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/2623583-abstrato-preto-forma-geometrica-fundo-com-linha-diagonal-textura-design-para-apresentacao-banner-capa-web-folheto-cartao-poster-jogo-textura-slide-e-powerpoint-ilustracaoial-vetor.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 450px;
+}
+
+.u-section-5 .u-text-1 {
+  font-weight: 400;
+  margin: 96px auto 0;
+}
+
+.u-section-5 .u-text-2 {
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin: 56px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 371px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 284px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 213px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 134px;
+  }
+} .u-section-6 {
+  background-image: url("images/2623583-abstrato-preto-forma-geometrica-fundo-com-linha-diagonal-textura-design-para-apresentacao-banner-capa-web-folheto-cartao-poster-jogo-textura-slide-e-powerpoint-ilustracaoial-vetor.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 750px;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  margin: 65px auto 65px 0;
+}
+
+.u-section-6 .u-image-1 {
+  min-height: 315px;
+  background-image: url("images/unnamed.jpg");
+  background-position: 50% 0%;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  min-height: 315px;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-6 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-6 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-6 .u-btn-1 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 20px auto 0 0;
+}
+
+.u-section-6 .u-layout-cell-3 {
+  min-height: 315px;
+}
+
+.u-section-6 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-6 .u-text-3 {
+  margin: 26px 0 0;
+}
+
+.u-section-6 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-6 .u-image-2 {
+  min-height: 315px;
+  background-image: url("images/image1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-6 .u-btn-1 {
+    height: 38px;
+    width: 99px;
+    padding: 7px 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-6 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-6 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1780px;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+} .u-section-7 {
+  background-image: url("images/2623583-abstrato-preto-forma-geometrica-fundo-com-linha-diagonal-textura-design-para-apresentacao-banner-capa-web-folheto-cartao-poster-jogo-textura-slide-e-powerpoint-ilustracaoial-vetor.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 750px;
+}
+
+.u-section-7 .u-layout-wrap-1 {
+  margin: 65px auto 65px 0;
+}
+
+.u-section-7 .u-image-1 {
+  min-height: 315px;
+  background-image: url("images/Chiileed.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-7 .u-layout-cell-2 {
+  min-height: 320px;
+}
+
+.u-section-7 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-7 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-7 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-7 .u-btn-1 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 20px auto 0 0;
+}
+
+.u-section-7 .u-layout-cell-3 {
+  min-height: 315px;
+}
+
+.u-section-7 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-7 .u-text-3 {
+  margin: 26px 0 0;
+}
+
+.u-section-7 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-7 .u-image-2 {
+  min-height: 315px;
+  background-image: url("images/shutterstock_1718907421-1000x450.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-7 .u-layout-cell-2 {
+    min-height: 315px;
+  }
+
+  .u-section-7 .u-btn-1 {
+    height: 38px;
+    width: 99px;
+    padding: 7px 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-7 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-7 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-7 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 1780px;
+  }
+
+  .u-section-7 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-7 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-7 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-7 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+} .u-section-8 {
+  background-image: url("images/2623583-abstrato-preto-forma-geometrica-fundo-com-linha-diagonal-textura-design-para-apresentacao-banner-capa-web-folheto-cartao-poster-jogo-textura-slide-e-powerpoint-ilustracaoial-vetor.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-8 .u-sheet-1 {
+  min-height: 750px;
+}
+
+.u-section-8 .u-layout-wrap-1 {
+  margin: 65px auto 65px 0;
+}
+
+.u-section-8 .u-image-1 {
+  min-height: 315px;
+  background-image: url("images/flakespowerperfil_6.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-8 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-8 .u-layout-cell-2 {
+  min-height: 315px;
+}
+
+.u-section-8 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-8 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-8 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-8 .u-btn-1 {
+  background-image: none;
+  color: rgba(0, 0, 0, 0);
+  padding: 0;
+}
+
+.u-section-8 .u-btn-2 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 20px auto 0 0;
+}
+
+.u-section-8 .u-layout-cell-3 {
+  min-height: 315px;
+}
+
+.u-section-8 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-8 .u-text-3 {
+  margin: 26px 0 0;
+}
+
+.u-section-8 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-8 .u-image-2 {
+  min-height: 315px;
+  background-image: url("images/maxresdefault.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-8 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-8 .u-btn-2 {
+    height: 38px;
+    width: 99px;
+    padding: 7px 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-8 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-8 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-8 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 1780px;
+  }
+
+  .u-section-8 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-8 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-8 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-8 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}

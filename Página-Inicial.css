@@ -1,0 +1,167 @@
+ .u-section-1 {
+  background-image: url("images/2623583-abstrato-preto-forma-geometrica-fundo-com-linha-diagonal-textura-design-para-apresentacao-banner-capa-web-folheto-cartao-poster-jogo-textura-slide-e-powerpoint-ilustracaoial-vetor.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1470px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 705px;
+  height: 705px;
+  margin: -84px 138px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  width: 760px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 865px;
+  margin: 23px auto 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 177px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 177px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.875rem;
+  align-self: center;
+  text-align: center;
+  background-image: none;
+  margin: -114px auto 0;
+  padding: 13px 49px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 0.875rem;
+  align-self: center;
+  text-align: center;
+  margin: 63px auto 60px;
+  padding: 12px 68px 12px 67px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1212px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 898px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 15px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 147px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 147px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1028px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 221px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 221px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    padding-left: 29px;
+    padding-right: 29px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    padding-right: 48px;
+    padding-left: 47px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 664px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 139px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 9px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 139px;
+  }
+}
